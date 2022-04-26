@@ -1,0 +1,6 @@
+package com.example.listas_alumnos
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
